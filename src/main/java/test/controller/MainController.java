@@ -8,9 +8,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import test.entity.UserInfo;
 import test.service.IUserService;
 
-/**
- * Created by bahrini on 29/05/17.
- */
 
 @Controller
 public class MainController {
